@@ -1,0 +1,12 @@
+[
+  {
+    "name": "server1",
+    "ssh": "deployer@80.111.131.146 -p 53298",
+    "sites": [
+      {
+        "name": "site.com",
+        "logFile": "/home/deployer/www/site.com/shared/log/production.log"
+      }
+    ]
+  }
+]
