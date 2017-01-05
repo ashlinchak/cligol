@@ -1,4 +1,4 @@
-package main
+package cligol
 
 import (
 	"encoding/json"
